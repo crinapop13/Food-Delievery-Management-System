@@ -1,0 +1,7 @@
+Order no. 84
+Date 2021-05-27T11:39:04.912138400
+
+Composite Product: Meniu Rating: 13.6875 Calories: 34212 Protein: 1088 Fats: 5000 Sodium: 7328 Pret: 204
+Base Product: Pecan Currant Bread  Rating: 3.75 Calories: 4314 Protein: 223 Fats: 369 Sodium: 771 Pret: 66
+
+Total: 270 lei

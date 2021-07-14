@@ -1,0 +1,3 @@
+Report with clients that have ordered more than a specific number of times
+and the value of order is higher than a specified amount
+client
